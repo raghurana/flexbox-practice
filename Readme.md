@@ -7,7 +7,7 @@
 
 - **row** - content will flow horizontally
 - **column** - conent will flow veritically
-- **rowreverse** - content will be rendered in teh reverse order of how it was added
+- **rowreverse** - content will be rendered in the reverse order of how it was added, horizontally
 
 ## Content alignment
 
