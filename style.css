@@ -1,0 +1,18 @@
+* {
+  margin: 0px;
+}
+
+.main {
+  background: lightgray;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.box {
+  margin: 10px;
+  padding: 35px;
+  color: white;
+  background: orangered;
+  font-size: 30px;
+}
