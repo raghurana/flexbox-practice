@@ -6,7 +6,9 @@
   background: lightgray;
   border: 1px solid black;
   display: flex;
-  justify-content: space-evenly;
+  flex-wrap: wrap;
+  height: 750px;
+  align-content: center;
 }
 
 .box {
@@ -15,4 +17,10 @@
   color: white;
   background: orangered;
   font-size: 30px;
+}
+
+.b2 {
+}
+
+.b4 {
 }
